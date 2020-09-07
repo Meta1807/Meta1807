@@ -11,11 +11,11 @@ _________________
   - HTML-CSS (Vanilla and Bootstrap)
   - Vue.js
   
-📫 **How to reach me:** 📫
-| 📧 Email                    | 📷 Instagram       | 🐦 Twitter        | Discord
-| -------------------------| --------------- | -------------- | ------- |
-| adrian@ardizza.xyz       | @adrianardizza  | @adrianardizza | Meta#2722
-
+📫 **How to reach me** 📫
+- 📧 Email: adrian@ardizza.xyz or adrian.ardizza@ui.ac.id **(For academic purposes only)**
+- 📷 Instagram: @adrianardizza
+- 🐦 Twitter: @adrianardizza
+- 🌐 Discord: Meta#2722
   
 
 <!--
