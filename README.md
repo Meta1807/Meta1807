@@ -4,18 +4,20 @@ _________________
 <p align="justify">My name is Adrian, a Computer Science student at the University of Indonesia and part-time web developer. I primarily on projects with common web technologies (MEAN stack, MySQL, and of course HTML-CSS) with some forays into other programming languages as part of my degree.</p>
 
 
-💬 **Skills:** 💬
+<p align="center"><strong>💬 Skills 💬</strong></p>
+
   - Node.js
   - MySQL
   - Linux (Administration, Command-Line [Bash Scripts, Crontabs])
   - HTML-CSS (Vanilla and Bootstrap)
   - Vue.js
   
-📫 **How to reach me** 📫
-- Email: adrian@ardizza.xyz or adrian.ardizza@ui.ac.id **(For academic purposes only)**
-- Instagram: @adrianardizza
-- Twitter: @adrianardizza
-- Discord: Meta#2722
+<p align="center"><strong>📫 How to reach me 📫</strong></p>
+
+  - Email: adrian@ardizza.xyz or adrian.ardizza@ui.ac.id **(For academic purposes only)**
+  - Instagram: @adrianardizza
+  - Twitter: @adrianardizza
+  - Discord: Meta#2722
   
 
 <!--
