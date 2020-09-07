@@ -12,10 +12,10 @@ _________________
   - Vue.js
   
 📫 How to reach me:
-  - Email: adrian@ardizza.xyz or adrian.ardizza@ui.ac.id (Academic Purposes Only)
-  - Instagram: @adrianardizza
-  - Twitter: @adrianardizza
-  - Discord: Meta#2722 (Feel free to ask me about anything related to programming here! ✨
+| Email                    | Instagram       | Twitter        | Discord
+| -------------------------| --------------- | -------------- | ------- |
+| adrian@ardizza.xyz       | @adrianardizza  | @adrianardizza | Meta#2722
+
   
 
 <!--
