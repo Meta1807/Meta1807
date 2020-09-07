@@ -1,4 +1,4 @@
-![](https://i.imgur.com/eSAcHf2.jpg)
+![](https://i.imgur.com/CSFN0zM.jpg)
 ### Hey Hey!
 It seems that you've stumbled upon my GitHub profile!
 My name is Adrian, a Computer Science student at the University of Indonesia and part-time web developer.
