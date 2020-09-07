@@ -4,14 +4,14 @@ _________________
 <p align="justify">My name is Adrian, a Computer Science student at the University of Indonesia and part-time web developer. I primarily on projects with common web technologies (MEAN stack, MySQL, and of course HTML-CSS) with some forays into other programming languages as part of my degree.</p>
 
 
-💬 Skills:
+💬 **Skills:** 💬
   - Node.js
   - MySQL
   - Linux (Administration, Command-Line [Bash Scripts, Crontabs])
   - HTML-CSS (Vanilla and Bootstrap)
   - Vue.js
   
-📫 How to reach me:
+📫 **How to reach me:** 📫
 | Email                    | Instagram       | Twitter        | Discord
 | -------------------------| --------------- | -------------- | ------- |
 | adrian@ardizza.xyz       | @adrianardizza  | @adrianardizza | Meta#2722
