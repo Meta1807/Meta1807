@@ -12,7 +12,7 @@ _________________
   - Vue.js
   
 📫 **How to reach me:** 📫
-| Email                    | Instagram       | Twitter        | Discord
+| 📧 Email                    | 📷 Instagram       | 🐦 Twitter        | Discord
 | -------------------------| --------------- | -------------- | ------- |
 | adrian@ardizza.xyz       | @adrianardizza  | @adrianardizza | Meta#2722
 
