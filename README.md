@@ -1,7 +1,7 @@
 ### Hey Hey!
-!(Hey Hey!)[https://tenor.com/view/hayasaka-kaguya-hey-hey-hey-shinomiya-love-is-war-gif-17143662]
 It seems that you've stumbled upon my GitHub profile!
 My name is Adrian, a Computer Science student at the University of Indonesia and part-time web developer.
+![](https://i.imgur.com/eSAcHf2.jpg)
 
 
 
