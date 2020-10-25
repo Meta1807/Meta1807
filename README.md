@@ -5,13 +5,10 @@ _________________
 
 
 <p align="center"><strong>💬 Skills 💬</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/><img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
 
-  - Node.js
-  - MySQL
-  - Linux (Administration, Command-Line [Bash Scripts, Crontabs])
-  - HTML-CSS (Vanilla and Bootstrap)
-  - Vue.js
-  
 <p align="center"><strong>📫 How to reach me 📫</strong></p>
 
   - Email: adrian@ardizza.xyz or adrian.ardizza@ui.ac.id **(For academic purposes only)**
