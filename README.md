@@ -1,7 +1,7 @@
 ![](https://i.imgur.com/zRlCKxh.png)
 _________________
 <h3 align="center">Hey Hey! It seems that you've stumbled upon my GitHub profile!</h3>
-<p align="justify">My name is Adrian, a Computer Science student at the University of Indonesia and part-time web developer. I primarily on projects with common web technologies (MEAN stack, MySQL, and of course HTML-CSS) with some forays into other programming languages as part of my degree.</p>
+<p align="justify">My name is Adrian, a Computer Science student at the University of Indonesia and an aspiring web developer. I primarily on projects with some commonly used web technologies (MEAN stack, MySQL, and of course HTML-CSS) with some forays into other programming languages as part of my degree.</p>
 
 
 <p align="center"><strong>💬 Skills - The Technologies I Use 💬</strong></p>
